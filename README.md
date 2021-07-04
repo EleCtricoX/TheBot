@@ -1,2 +1,2 @@
-# Zyther
+# ThenBoT
 A legit bot :)
