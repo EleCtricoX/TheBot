@@ -1,0 +1,16 @@
+{
+  "TOKEN": "NzE3ODI4ODEwNTA2MTA4OTg4.XtgALQ.9NOHreUAPc5ty5X6HvSWNEdeve4",
+  "PREFIX": "_",
+  "database": "mongodb+srv://zorkbot:<password>@cluster0.zma7i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "token": "NzE3ODI4ODEwNTA2MTA4OTg4.XtgALQ.9NOHreUAPc5ty5X6HvSWNEdeve4",
+  "default_prefix": "_",
+  "imdbKey": "",
+  "YOUTUBE_API_KEY": "AIzaSyAjNldz0krINp3GFR_ViZHIwVs1R38b9As",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "QUEUE_LIMIT": 10,
+  "COLOR": "aqua",
+  "youtubeApiKey": "AIzaSyAjNldz0krINp3GFR_ViZHIwVs1R38b9As",
+  "ownerID": "270321849949224961",
+  "reportsChannelId": "860534111957549109",
+  "feedBackChannelId": "860534147718316063"
+}

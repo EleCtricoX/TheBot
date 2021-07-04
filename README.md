@@ -1,0 +1,2 @@
+# Zyther
+A legit bot :)
